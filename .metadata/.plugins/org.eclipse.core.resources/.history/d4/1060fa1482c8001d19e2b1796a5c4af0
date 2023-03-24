@@ -1,0 +1,5 @@
+package com.sanya.users.dto;
+
+public class User {
+
+}

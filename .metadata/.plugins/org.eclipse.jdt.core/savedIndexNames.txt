@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+/home/sanya/eclipse-wk/.metadata/.plugins/org.eclipse.jdt.core
+3218604083.index
+1865797976.index
+3996673373.index
+217996825.index

@@ -1,0 +1,5 @@
+package com.sanya.users.dao;
+
+public class UserDAOImpl {
+
+}
